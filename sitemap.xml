@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/posts/field_note-002-f1fxd0.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/posts/interview-002-1eoyttu.html</loc>
@@ -25,8 +31,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/posts/review-001-kkojvx.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-sf-t3-1779642675702-153/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
